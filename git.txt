@@ -1,2 +1,4 @@
 tupid boss still prefers svn.
 Test Checkout function.
+Diagnose file whether can be recovery.
+Creatinging a new branch just need one second.
